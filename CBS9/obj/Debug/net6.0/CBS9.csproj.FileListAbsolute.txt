@@ -1,0 +1,15 @@
+C:\Users\denys\source\repos\CBS9\bin\Debug\net6.0\CBS9.exe
+C:\Users\denys\source\repos\CBS9\bin\Debug\net6.0\CBS9.deps.json
+C:\Users\denys\source\repos\CBS9\bin\Debug\net6.0\CBS9.runtimeconfig.json
+C:\Users\denys\source\repos\CBS9\bin\Debug\net6.0\CBS9.dll
+C:\Users\denys\source\repos\CBS9\bin\Debug\net6.0\CBS9.pdb
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.AssemblyInfo.cs
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.dll
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\refint\CBS9.dll
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.pdb
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\CBS9.genruntimeconfig.cache
+C:\Users\denys\source\repos\CBS9\obj\Debug\net6.0\ref\CBS9.dll
